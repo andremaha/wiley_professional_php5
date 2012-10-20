@@ -6,7 +6,7 @@
  * in order to save resources.
  *
  * @author      Andrey I. Esaulov <aesaulov@me.com>
- * @package     build_php_framework_screencast
+ * @package     wiley_professional_php5
  * @version     0.1
  */
 class Collection
